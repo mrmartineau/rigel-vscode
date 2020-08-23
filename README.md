@@ -56,35 +56,35 @@
 
 #### React
 
-![](assets/react-js.png)
+![](https://github.com/mrmartineau/rigel-vscode/raw/main/assets/react-js.png)
 
 ##### React (class component)
 
-![](assets/react-class-js.png)
+![](https://github.com/mrmartineau/rigel-vscode/raw/main/assets/react-class-js.png)
 
 #### CSS
 
-![](assets/css.png)
+![](https://github.com/mrmartineau/rigel-vscode/raw/main/assets/css.png)
 
 #### Angular TSX
 
-![](assets/angular-tsx.png)
+![](https://github.com/mrmartineau/rigel-vscode/raw/main/assets/angular-tsx.png)
 
 #### JSON
 
-![](assets/json.png)
+![](https://github.com/mrmartineau/rigel-vscode/raw/main/assets/json.png)
 
 #### Python
 
-![](assets/python.png)
+![](https://github.com/mrmartineau/rigel-vscode/raw/main/assets/python.png)
 
 #### Ruby
 
-![](assets/ruby.png)
+![](https://github.com/mrmartineau/rigel-vscode/raw/main/assets/ruby.png)
 
 #### PHP
 
-![](assets/php.png)
+![](https://github.com/mrmartineau/rigel-vscode/raw/main/assets/php.png)
 
 ---
 
