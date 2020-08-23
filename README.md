@@ -53,6 +53,7 @@
 ### This is a port of the [Rigel theme](https://rigel.netlify.app/) for VS Code.
 
 > This theme is in beta and has not been published to the Visual Studio Marketplace
+> If you want to try it out, download my repo and move the folder into your `~/.vscode/extensions` directory.
 
 #### React
 
