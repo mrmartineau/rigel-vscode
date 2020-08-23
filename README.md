@@ -52,6 +52,8 @@
 
 ### This is a port of the [Rigel theme](https://rigel.netlify.app/) for VS Code.
 
+> This theme is in beta and has not been published to the Visual Studio Marketplace
+
 #### React
 
 ![](assets/react-js.png)
