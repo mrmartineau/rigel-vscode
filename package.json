@@ -1,0 +1,32 @@
+{
+  "name": "rigel-vscode",
+  "displayName": "Rigel",
+  "description": "VS Code port of the Rigel theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rigel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rigel-color-theme.json"
+      }
+    ]
+  },
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "keywords": [
+    "beautiful functionality",
+    "focus",
+    "minimal",
+    "syntax highlighting"
+  ],
+  "license": "MIT"
+}

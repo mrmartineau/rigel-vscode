@@ -1,0 +1,31 @@
+#c32f5f
+#ff5a66
+#f08e47
+#fecb1b
+#9bf087
+#7fc06e
+#00fffe
+#00cbcb
+#1b8db2
+#7eb2dc
+#c693fe
+#fa93fe
+
+
+#002536
+#00394f
+#77919e
+#e5e5db
+#cbcbcb
+
+
+unfocused: #7eb2dc
+active: #00cbcb
+border: #003852
+
+
+#003852
+#002A3E
+#001B29
+#000E14
+
