@@ -48,12 +48,6 @@
       />
     </a>
   </p>
-
-  <p>
-    <a href="#features">Features</a> •
-    <a href="#Installation">Installation</a> • <a href="#usage">Usage</a> •
-    <a href="https://code-notes-example.netlify.com/">Demo</a>
-  </p>
 </div>
 
 ### This is a port of the [Rigel theme](https://rigel.netlify.app/) for VS Code.
