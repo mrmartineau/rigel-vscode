@@ -475,11 +475,11 @@
     },
     {
       "scope": "entity.name.section",
-      "settings": { "name": "Sections", "foreground": "#9bf087" }
+      "settings": { "name": "Sections", "foreground": "#1b8db2" }
     },
     {
       "scope": ["entity.name.function", "entity.name.function.templated"],
-      "settings": { "name": "Functions", "foreground": "#7eb2dc" }
+      "settings": { "name": "Functions", "foreground": "#00cbcb" }
     },
     {
       "scope": "entity.name.function.member.static",
@@ -524,10 +524,6 @@
         "fontStyle": "italic",
         "foreground": "#ff5a66"
       }
-    },
-    {
-      "scope": "entity.name.function",
-      "settings": { "name": "Function name", "foreground": "#7eb2dc" }
     },
     {
       "scope": [
@@ -584,7 +580,7 @@
       }
     },
     {
-      "scope": ["entity.name.function", "support.function"],
+      "scope": ["support.function"],
       "settings": { "name": "Function names / calls", "foreground": "#7eb2dc" }
     },
     {
