@@ -1,10 +1,15 @@
 {
   "name": "rigel-vscode",
+  "publisher": "mrmartineau",
   "displayName": "Rigel",
   "description": "VS Code port of the Rigel theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.47.0"
+  },
+  "scripts": {
+    "publish": "vsce publish",
+    "package": "vsce package"
   },
   "categories": [
     "Themes"
@@ -28,5 +33,13 @@
     "minimal",
     "syntax highlighting"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/mrmartineau/vscode-rigel"
+  },
+  "homepage": "https://github.com/mrmartineau/vscode-rigel",
+  "bugs": {
+    "url": "https://github.com/mrmartineau/vscode-rigel/issues"
+  },
+  "icon": "assets/logo.png"
 }
