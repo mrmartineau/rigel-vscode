@@ -17,7 +17,7 @@
     </a>
     <a href="https://marketplace.visualstudio.com/items?itemName=mrmartineau.rigel-vscode">
       <img
-        src="https://vsmarketplacebadge.apphb.com/version/mrmartineau.rigel-vscode.svg"
+        src="https://vsmarketplacebadges.dev/version-short/mrmartineau.rigel-vscode.svg"
         alt="VS Code Marketplace version."
       />
     </a>
@@ -25,7 +25,7 @@
       href="https://marketplace.visualstudio.com/items?itemName=mrmartineau.rigel-vscode"
     >
       <img
-        src="https://vsmarketplacebadge.apphb.com/installs-short/mrmartineau.rigel-vscode.svg"
+        src="https://vsmarketplacebadges.dev/installs-short/mrmartineau.rigel-vscode.svg"
         alt="Installs"
       />
     </a>
